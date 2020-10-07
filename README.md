@@ -1,4 +1,4 @@
-![](imgs/shad.png=250x)
+<img src="./imgs/shad.png"  width="200">
 
 ## Содержание учебника
 
