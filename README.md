@@ -1,4 +1,4 @@
-![](images/shad.png)
+![](imgs/shad.png)
 
 ## Содержание учебника
 
