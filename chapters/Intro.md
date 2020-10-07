@@ -26,10 +26,12 @@ graph TD;
 
 ```math
 a^2+b^2=c^2
+```
 
-
+```math
 \int \exp^{-x^2}
+```
 
-
+```math
 \frac{\sum\limits_0^\infty \frac{1}{n}}{2}
 ```
