@@ -29,7 +29,7 @@ a^2+b^2=c^2
 ```
 
 ```math
-\int \exp^{-x^2}
+\int e^{-x^2}
 ```
 
 ```math
