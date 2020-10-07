@@ -1,5 +1,6 @@
-<img src="./imgs/shad.png"  width="200">
-
+<div align="center">
+<img src="./imgs/shad.png"  width="300">
+</div>
 ## Содержание учебника
 
 Введение
