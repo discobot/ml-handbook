@@ -1,4 +1,4 @@
-![](imgs/shad.png)
+![](imgs/shad.png =250x)
 
 ## Содержание учебника
 
