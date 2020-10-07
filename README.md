@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./imgs/shad.png"  width="300">
-
+</div>
 
 
 ## Курс ML
@@ -34,4 +34,4 @@
 
 © Школа анализа данных, 2020
 </em>
-</div>
+
