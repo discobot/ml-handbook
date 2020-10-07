@@ -22,15 +22,13 @@ graph TD;
   C-->D;
 ```
 
-4. Формулы
+4. Формулы inline
 
-```math
-a^2+b^2=c^2
-```
+$`a^2+b^2=c^2`$
 
-```math
-\int e^{-x^2}
-```
+$`\int e^{-x^2}`$
+
+5. Формулы не inline
 
 ```math
 \frac{\sum\limits_0^\infty \frac{1}{n}}{2}
