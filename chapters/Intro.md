@@ -2,6 +2,7 @@
 ### Демо возможностей маркдауна gitlab
 1. Картинки
 <img src="../imgs/shad.png"  width="300">
+
 2. Код
 
 ```python
@@ -26,7 +27,9 @@ graph TD;
 ```math
 a^2+b^2=c^2
 
+
 \int \exp^{-x^2}
+
 
 \frac{\sum\limits_0^\infty \frac{1}{n}}{2}
 ```
