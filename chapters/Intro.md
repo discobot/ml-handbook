@@ -14,22 +14,13 @@ def function():
 
 3. Диаграммы
 
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
 
 4. Формулы inline
 
-$`a^2+b^2=c^2`$
+$a^2+b^2=c^2$
 
-$`\int e^{-x^2}`$
+$\int e^{-x^2}$
 
 5. Формулы не inline
 
-```math
-\frac{\sum\limits_0^\infty \frac{1}{n}}{2}
-```
+$$\frac{\sum\limits_0^\infty \frac{1}{n}}{2}$$
